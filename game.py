@@ -47,7 +47,7 @@ class Player:
 
 # Define a simple map (replace with your own level design)
 def draw_map():
-    # Here you would define obstacles, walls, etc. using rectangles or other shapes
+    # Here i would define obstacles, walls, etc. using rectangles or other shapes
     pygame.draw.rect(screen, BLACK, (100, 100, 200, 200))  # Example obstacle
 
 # Create player object
